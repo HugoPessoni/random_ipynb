@@ -1,0 +1,10 @@
+selenium
+pandas
+bs4
+python-dotenv
+pandas-gbq
+google-cloud-bigquery[bqstorage,pandas]
+fastapi
+uvicorn
+pydantic
+google-cloud-storage
